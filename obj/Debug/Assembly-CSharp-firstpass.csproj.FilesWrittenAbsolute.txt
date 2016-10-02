@@ -15,3 +15,20 @@
 /Users/sciayk/Documents/U5.3.2/Design Patterns/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/sciayk/Documents/U5.3.2/Design Patterns/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/sciayk/Documents/U5.3.2/Design Patterns/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sciayk/DesginP/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/sciayk/DesginP/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/sciayk/DesginP/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sciayk/DesginP/Temp/bin/Debug/UnityEngine.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/UnityEditor.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/Mono.Cecil.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sciayk/DesginP/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/sciayk/DesginP/Temp/bin/Debug/Mono.Cecil.Mdb.dll

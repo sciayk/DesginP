@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{47A7F335-7757-C5A3-4B6F-1133CBE83510}</ProjectGuid>
+    <ProjectGuid>{662500CC-3DB8-60AD-C055-229D3F4B24A0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -50,6 +50,8 @@
      <Compile Include="Assets\Bridge6\Bridge.cs" />
      <Compile Include="Assets\Builder15\Builder.cs" />
      <Compile Include="Assets\Builder15\BuilderText.cs" />
+     <Compile Include="Assets\Commed19\Command.cs" />
+     <Compile Include="Assets\Commed19\CommandText.cs" />
      <Compile Include="Assets\Composite17\Composite.cs" />
      <Compile Include="Assets\Composite17\CompositeText.cs" />
      <Compile Include="Assets\Composite17\UITool.cs" />
@@ -61,6 +63,8 @@
      <Compile Include="Assets\Mediator4\Mediator.cs" />
      <Compile Include="Assets\Mediator4\MediatorText.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\RandText\RE  OR NoRE\REandNoRE.cs" />
+     <Compile Include="Assets\RandText\RE  OR NoRE\ReOrNoReText.cs" />
      <Compile Include="Assets\State1\State.cs" />
      <Compile Include="Assets\State1\StateText.cs" />
      <Compile Include="Assets\Strategy7\Strategy.cs" />
@@ -81,7 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{A3D6C61C-D173-D3C7-E734-D8B40FF10C52}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{E2A052A7-6962-FFFF-2E03-A7216356BB33}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

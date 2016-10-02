@@ -45,10 +45,10 @@ public static class UnityTool{
 		if (Container.name == gameobjectName)
 			pGameObjectTF = Container.transform;
 		else {
-			Transform[] allChildren = Container.transform.GetComponentInChildren<Transform> ();
+			Transform[] allChildren = Container.transform.GetComponentsInChildren<Transform> ();
 			foreach (Transform Child in allChildren) {
 				if (Child.name == gameobjectName) {
-					if (pGameObjectTF = null)
+					if (pGameObjectTF == null)
 						pGameObjectTF = Child;
 					else
 						Debug.LogWarning ("Container[" + Container.name + "]下找出重複名稱[" + gameobjectName + "]");
