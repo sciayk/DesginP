@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Strategy7/Strategy.cs">
+    <Files>
+      <File FileName="Assets/Composite17/Composite.cs" Line="80" Column="13" />
+      <File FileName="Assets/Composite17/CompositeText.cs" Line="11" Column="3" />
+      <File FileName="Assets/Builder15/Builder.cs" Line="52" Column="9" />
+      <File FileName="Assets/AIState/IAState.cs" Line="35" Column="9" />
+      <File FileName="Assets/singleton3/singleton.cs" Line="17" Column="30" />
+      <File FileName="Assets/Strategy7/Strategy.cs" Line="19" Column="56" />
+      <File FileName="Assets/Strategy7/StrategyText.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
