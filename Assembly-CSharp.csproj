@@ -63,8 +63,8 @@
      <Compile Include="Assets\Mediator4\Mediator.cs" />
      <Compile Include="Assets\Mediator4\MediatorText.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
-     <Compile Include="Assets\RandText\RE  OR NoRE\REandNoRE.cs" />
-     <Compile Include="Assets\RandText\RE  OR NoRE\ReOrNoReText.cs" />
+     <Compile Include="Assets\RandText\Run.cs" />
+     <Compile Include="Assets\RandText\Run2.cs" />
      <Compile Include="Assets\State1\State.cs" />
      <Compile Include="Assets\State1\StateText.cs" />
      <Compile Include="Assets\Strategy7\Strategy.cs" />
