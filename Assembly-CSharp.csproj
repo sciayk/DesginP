@@ -50,6 +50,8 @@
      <Compile Include="Assets\Bridge6\Bridge.cs" />
      <Compile Include="Assets\Builder15\Builder.cs" />
      <Compile Include="Assets\Builder15\BuilderText.cs" />
+     <Compile Include="Assets\Chain of Responsibillity20\Text.cs" />
+     <Compile Include="Assets\Chain of Responsibillity20\chain of Responsibility.cs" />
      <Compile Include="Assets\Commed19\Command.cs" />
      <Compile Include="Assets\Commed19\CommandText.cs" />
      <Compile Include="Assets\Composite17\Composite.cs" />
